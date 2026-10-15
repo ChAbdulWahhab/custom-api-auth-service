@@ -1,0 +1,11 @@
+{
+    "validKeys": [
+        "sk_live_12345abcdef",
+        "sk_live_67890ghijkl"
+    ],
+    "items": [
+        { "id": 1, "title": "NodeJS Complete Guide.", "category": "Backend" },
+        { "id": 2, "title": "ExpressJS Advance Routing", "category": "Backend" },
+        { "id": 3, "title": "React Native Mobile Apps", "category": "Mobile" }
+    ]
+}
